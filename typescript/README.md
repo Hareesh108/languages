@@ -15,7 +15,7 @@ There are a few ways to run this program:
 
 ### 1. Run (✅ Recommended)
 
-`node version 24 and above` allows you to run TypeScript directly without compiling manually.
+`node version 23 and above` allows you to run TypeScript directly without compiling manually.
 
 ```bash
 node hello-world.ts
