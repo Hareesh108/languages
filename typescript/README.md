@@ -13,12 +13,20 @@ This is a simple TypeScript program that prints **Hello, World!** to the console
 
 There are a few ways to run this program:
 
-### 1. Run with ts-node (✅ Recommended)
+### 1. Run (✅ Recommended)
+
+`node version 24 and above` allows you to run TypeScript directly without compiling manually.
+
+```bash
+node hello-world.ts
+```
+
+### 1. Run with ts-node
 
 `ts-node` allows you to run TypeScript directly without compiling manually.
 
 ```bash
-npx ts-node hello-world.ts
+ts-node hello-world.ts
 ```
 
 This is the most common and recommended way if you are practicing TypeScript as a programming language.
